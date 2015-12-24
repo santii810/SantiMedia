@@ -1,0 +1,28 @@
+c:\users\sgomez\documents\visual studio 2015\Projects\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe.config
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csprojResolveAssemblyReference.cache
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.Form1.resources
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.Properties.Resources.resources
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csproj.GenerateResource.Cache
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\bin\Debug\SantiMedia.pdb
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.exe
+C:\Users\sgomez\Documents\Visual Studio 2015\Projects\SantiMedia\SantiMedia\obj\Debug\SantiMedia.pdb
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe.config
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.exe
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.pdb
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.pdb
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csprojResolveAssemblyReference.cache
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.Properties.Resources.resources
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csproj.GenerateResource.Cache
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe.config
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.exe
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.pdb
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.exe
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\bin\Debug\SantiMedia.pdb
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csprojResolveAssemblyReference.cache
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.Form1.resources
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.Properties.Resources.resources
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.csproj.GenerateResource.Cache
+C:\Users\sgomez\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.SantiMedia.resources
+C:\Users\dam209\OneDrive\Proyectos\Casa\SantiMedia\SantiMedia\obj\Debug\SantiMedia.SantiMedia.resources

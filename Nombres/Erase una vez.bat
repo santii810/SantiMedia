@@ -1,0 +1,16 @@
+set t=%~1
+set tf=%~2
+set ext=%~3
+:Erase una vez
+For /l %%c in (1,1,9) do ren "eraseuvez%t%0%%c *.%ext%" "Erase una vez %t%0%%c.%ext%"
+For /l %%c in (10,1,25) do ren "eraseuvez%t%%%c *.%ext%" "Erase una vez %t%%%c.%ext%"
+For /l %%c in (1,1,9) do ren "eraseuvez%t%0%%c.%ext%" "Erase una vez %t%0%%c.%ext%"
+For /l %%c in (10,1,25) do ren "eraseuvez%t%%%c.%ext%" "Erase una vez %t%%%c.%ext%"
+For /l %%c in (1,1,9) do ren "EraseUVez%t%0%%c*.%ext%" "Erase una vez %t%0%%c.%ext%"
+For /l %%c in (10,1,25) do ren "EraseUVez%t%%%c*.%ext%" "Erase una vez %t%%%c.%ext%"
+For /l %%c in (1,1,9) do ren "EraseVez%t%0%%c*.%ext%" "Erase una vez %t%0%%c.%ext%"
+For /l %%c in (10,1,25) do ren "EraseVez%t%%%c*.%ext%" "Erase una vez %t%%%c.%ext%"
+ 
+
+
+if not %t% gtr %tf% set /a t=%t%+1 & goto Erase una vez
